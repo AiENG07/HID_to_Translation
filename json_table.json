@@ -1,0 +1,2909 @@
+[
+    {
+        "Key Name": "System Power",
+        "HID Usage Page": "01 ",
+        "HID Usage ID": "81 ",
+        "PS/2 Set 1 Make*": "E0 5E",
+        "PS/2 Set 1 Break*": "E0 DE",
+        "PS/2 Set 2 Make": "E0 37",
+        "PS/2 Set 2 Break": "E0 F0 37"
+    },
+    {
+        "Key Name": "System Sleep",
+        "HID Usage Page": "01 ",
+        "HID Usage ID": "82 ",
+        "PS/2 Set 1 Make*": "E0 5F",
+        "PS/2 Set 1 Break*": "E0 DF",
+        "PS/2 Set 2 Make": "E0 3F",
+        "PS/2 Set 2 Break": "E0 F0 3F"
+    },
+    {
+        "Key Name": "System Wake",
+        "HID Usage Page": "01 ",
+        "HID Usage ID": "83 ",
+        "PS/2 Set 1 Make*": "E0 63",
+        "PS/2 Set 1 Break*": "E0 E3",
+        "PS/2 Set 2 Make": "E0 5E",
+        "PS/2 Set 2 Break": "E0 F0 5E"
+    },
+    {
+        "Key Name": "No Event",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "00 ",
+        "PS/2 Set 1 Make*": "None",
+        "PS/2 Set 1 Break*": "None",
+        "PS/2 Set 2 Make": "None",
+        "PS/2 Set 2 Break": "None"
+    },
+    {
+        "Key Name": "Overrun Error",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "01 ",
+        "PS/2 Set 1 Make*": "FF",
+        "PS/2 Set 1 Break*": "None",
+        "PS/2 Set 2 Make": "00 ",
+        "PS/2 Set 2 Break": "None"
+    },
+    {
+        "Key Name": "POST Fail",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "02 ",
+        "PS/2 Set 1 Make*": "FC",
+        "PS/2 Set 1 Break*": "None",
+        "PS/2 Set 2 Make": "FC",
+        "PS/2 Set 2 Break": "None"
+    },
+    {
+        "Key Name": "ErrorUndefined",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "03 ",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "a A",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "04 ",
+        "PS/2 Set 1 Make*": "1E",
+        "PS/2 Set 1 Break*": "9E",
+        "PS/2 Set 2 Make": "1C",
+        "PS/2 Set 2 Break": "F0 1C"
+    },
+    {
+        "Key Name": "b B",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "05 ",
+        "PS/2 Set 1 Make*": "30 ",
+        "PS/2 Set 1 Break*": "B0",
+        "PS/2 Set 2 Make": "32 ",
+        "PS/2 Set 2 Break": "F0 32"
+    },
+    {
+        "Key Name": "c C",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "06 ",
+        "PS/2 Set 1 Make*": "2E",
+        "PS/2 Set 1 Break*": "AE",
+        "PS/2 Set 2 Make": "21 ",
+        "PS/2 Set 2 Break": "F0 21"
+    },
+    {
+        "Key Name": "d D",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "07 ",
+        "PS/2 Set 1 Make*": "20 ",
+        "PS/2 Set 1 Break*": "A0",
+        "PS/2 Set 2 Make": "23 ",
+        "PS/2 Set 2 Break": "F0 23"
+    },
+    {
+        "Key Name": "e E",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "08 ",
+        "PS/2 Set 1 Make*": "12 ",
+        "PS/2 Set 1 Break*": "92 ",
+        "PS/2 Set 2 Make": "24 ",
+        "PS/2 Set 2 Break": "F0 24"
+    },
+    {
+        "Key Name": "f F",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "09 ",
+        "PS/2 Set 1 Make*": "21 ",
+        "PS/2 Set 1 Break*": "A1",
+        "PS/2 Set 2 Make": "2B",
+        "PS/2 Set 2 Break": "F0 2B"
+    },
+    {
+        "Key Name": "g G",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "0A",
+        "PS/2 Set 1 Make*": "22 ",
+        "PS/2 Set 1 Break*": "A2",
+        "PS/2 Set 2 Make": "34 ",
+        "PS/2 Set 2 Break": "F0 34"
+    },
+    {
+        "Key Name": "h H",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "0B",
+        "PS/2 Set 1 Make*": "23 ",
+        "PS/2 Set 1 Break*": "A3",
+        "PS/2 Set 2 Make": "33 ",
+        "PS/2 Set 2 Break": "F0 33"
+    },
+    {
+        "Key Name": "i I",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "0C",
+        "PS/2 Set 1 Make*": "17 ",
+        "PS/2 Set 1 Break*": "97 ",
+        "PS/2 Set 2 Make": "43 ",
+        "PS/2 Set 2 Break": "F0 43"
+    },
+    {
+        "Key Name": "j J",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "0D",
+        "PS/2 Set 1 Make*": "24 ",
+        "PS/2 Set 1 Break*": "A4",
+        "PS/2 Set 2 Make": "3B",
+        "PS/2 Set 2 Break": "F0 3B"
+    },
+    {
+        "Key Name": "k K",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "0E",
+        "PS/2 Set 1 Make*": "25 ",
+        "PS/2 Set 1 Break*": "A5",
+        "PS/2 Set 2 Make": "42 ",
+        "PS/2 Set 2 Break": "F0 42"
+    },
+    {
+        "Key Name": "l L",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "0F",
+        "PS/2 Set 1 Make*": "26 ",
+        "PS/2 Set 1 Break*": "A6",
+        "PS/2 Set 2 Make": "4B",
+        "PS/2 Set 2 Break": "F0 4B"
+    },
+    {
+        "Key Name": "m M",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "10 ",
+        "PS/2 Set 1 Make*": "32 ",
+        "PS/2 Set 1 Break*": "B2",
+        "PS/2 Set 2 Make": "3A",
+        "PS/2 Set 2 Break": "F0 3A"
+    },
+    {
+        "Key Name": "n N",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "11 ",
+        "PS/2 Set 1 Make*": "31 ",
+        "PS/2 Set 1 Break*": "B1",
+        "PS/2 Set 2 Make": "31 ",
+        "PS/2 Set 2 Break": "F0 31"
+    },
+    {
+        "Key Name": "o O",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "12 ",
+        "PS/2 Set 1 Make*": "18 ",
+        "PS/2 Set 1 Break*": "98 ",
+        "PS/2 Set 2 Make": "44 ",
+        "PS/2 Set 2 Break": "F0 44"
+    },
+    {
+        "Key Name": "p P",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "13 ",
+        "PS/2 Set 1 Make*": "19 ",
+        "PS/2 Set 1 Break*": "99 ",
+        "PS/2 Set 2 Make": "4D",
+        "PS/2 Set 2 Break": "F0 4D"
+    },
+    {
+        "Key Name": "q Q",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "14 ",
+        "PS/2 Set 1 Make*": "10 ",
+        "PS/2 Set 1 Break*": "90 ",
+        "PS/2 Set 2 Make": "15 ",
+        "PS/2 Set 2 Break": "F0 15"
+    },
+    {
+        "Key Name": "r R",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "15 ",
+        "PS/2 Set 1 Make*": "13 ",
+        "PS/2 Set 1 Break*": "93 ",
+        "PS/2 Set 2 Make": "2D",
+        "PS/2 Set 2 Break": "F0 2D"
+    },
+    {
+        "Key Name": "s S",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "16 ",
+        "PS/2 Set 1 Make*": "1F",
+        "PS/2 Set 1 Break*": "9F",
+        "PS/2 Set 2 Make": "1B",
+        "PS/2 Set 2 Break": "F0 1B"
+    },
+    {
+        "Key Name": "t T",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "17 ",
+        "PS/2 Set 1 Make*": "14 ",
+        "PS/2 Set 1 Break*": "94 ",
+        "PS/2 Set 2 Make": "2C",
+        "PS/2 Set 2 Break": "F0 2C"
+    },
+    {
+        "Key Name": "u U",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "18 ",
+        "PS/2 Set 1 Make*": "16 ",
+        "PS/2 Set 1 Break*": "96 ",
+        "PS/2 Set 2 Make": "3C",
+        "PS/2 Set 2 Break": "F0 3C"
+    },
+    {
+        "Key Name": "v V",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "19 ",
+        "PS/2 Set 1 Make*": "2F",
+        "PS/2 Set 1 Break*": "AF",
+        "PS/2 Set 2 Make": "2A",
+        "PS/2 Set 2 Break": "F0 2A"
+    },
+    {
+        "Key Name": "w W",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "1A",
+        "PS/2 Set 1 Make*": "11 ",
+        "PS/2 Set 1 Break*": "91 ",
+        "PS/2 Set 2 Make": "1D",
+        "PS/2 Set 2 Break": "F0 1D"
+    },
+    {
+        "Key Name": "x X",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "1B",
+        "PS/2 Set 1 Make*": "2D",
+        "PS/2 Set 1 Break*": "AD",
+        "PS/2 Set 2 Make": "22 ",
+        "PS/2 Set 2 Break": "F0 22"
+    },
+    {
+        "Key Name": "y Y",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "1C",
+        "PS/2 Set 1 Make*": "15 ",
+        "PS/2 Set 1 Break*": "95 ",
+        "PS/2 Set 2 Make": "35 ",
+        "PS/2 Set 2 Break": "F0 35"
+    },
+    {
+        "Key Name": "z Z",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "1D",
+        "PS/2 Set 1 Make*": "2C",
+        "PS/2 Set 1 Break*": "AC",
+        "PS/2 Set 2 Make": "1A",
+        "PS/2 Set 2 Break": "F0 1A"
+    },
+    {
+        "Key Name": "1 !",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "1E",
+        "PS/2 Set 1 Make*": "02 ",
+        "PS/2 Set 1 Break*": "82 ",
+        "PS/2 Set 2 Make": "16 ",
+        "PS/2 Set 2 Break": "F0 16"
+    },
+    {
+        "Key Name": "2 @",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "1F",
+        "PS/2 Set 1 Make*": "03 ",
+        "PS/2 Set 1 Break*": "83 ",
+        "PS/2 Set 2 Make": "1E",
+        "PS/2 Set 2 Break": "F0 1E"
+    },
+    {
+        "Key Name": "3 #",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "20 ",
+        "PS/2 Set 1 Make*": "04 ",
+        "PS/2 Set 1 Break*": "84 ",
+        "PS/2 Set 2 Make": "26 ",
+        "PS/2 Set 2 Break": "F0 26"
+    },
+    {
+        "Key Name": "4$",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "21 ",
+        "PS/2 Set 1 Make*": "05 ",
+        "PS/2 Set 1 Break*": "85 ",
+        "PS/2 Set 2 Make": "25 ",
+        "PS/2 Set 2 Break": "F0 25"
+    },
+    {
+        "Key Name": "5 %",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "22 ",
+        "PS/2 Set 1 Make*": "06 ",
+        "PS/2 Set 1 Break*": "86 ",
+        "PS/2 Set 2 Make": "2E",
+        "PS/2 Set 2 Break": "F0 2E"
+    },
+    {
+        "Key Name": "6 ^",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "23 ",
+        "PS/2 Set 1 Make*": "07 ",
+        "PS/2 Set 1 Break*": "87 ",
+        "PS/2 Set 2 Make": "36 ",
+        "PS/2 Set 2 Break": "F0 36"
+    },
+    {
+        "Key Name": "7 &",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "24 ",
+        "PS/2 Set 1 Make*": "08 ",
+        "PS/2 Set 1 Break*": "88 ",
+        "PS/2 Set 2 Make": "3D",
+        "PS/2 Set 2 Break": "F0 3D"
+    },
+    {
+        "Key Name": "8 *",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "25 ",
+        "PS/2 Set 1 Make*": "09 ",
+        "PS/2 Set 1 Break*": "89 ",
+        "PS/2 Set 2 Make": "3E",
+        "PS/2 Set 2 Break": "F0 3E"
+    },
+    {
+        "Key Name": "9 (",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "26 ",
+        "PS/2 Set 1 Make*": "0A",
+        "PS/2 Set 1 Break*": "8A",
+        "PS/2 Set 2 Make": "46 ",
+        "PS/2 Set 2 Break": "F0 46"
+    },
+    {
+        "Key Name": "0 )",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "27 ",
+        "PS/2 Set 1 Make*": "0B",
+        "PS/2 Set 1 Break*": "8B",
+        "PS/2 Set 2 Make": "45 ",
+        "PS/2 Set 2 Break": "F0 45"
+    },
+    {
+        "Key Name": "Return",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "28 ",
+        "PS/2 Set 1 Make*": "1C",
+        "PS/2 Set 1 Break*": "9C",
+        "PS/2 Set 2 Make": "5A",
+        "PS/2 Set 2 Break": "F0 5A"
+    },
+    {
+        "Key Name": "Escape",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "29 ",
+        "PS/2 Set 1 Make*": "01 ",
+        "PS/2 Set 1 Break*": "81 ",
+        "PS/2 Set 2 Make": "76 ",
+        "PS/2 Set 2 Break": "F0 76"
+    },
+    {
+        "Key Name": "Backspace",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "2A",
+        "PS/2 Set 1 Make*": "0E",
+        "PS/2 Set 1 Break*": "8E",
+        "PS/2 Set 2 Make": "66 ",
+        "PS/2 Set 2 Break": "F0 66"
+    },
+    {
+        "Key Name": "Tab",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "2B",
+        "PS/2 Set 1 Make*": "0F",
+        "PS/2 Set 1 Break*": "8F",
+        "PS/2 Set 2 Make": "0D",
+        "PS/2 Set 2 Break": "F0 0D"
+    },
+    {
+        "Key Name": "Space",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "2C",
+        "PS/2 Set 1 Make*": "39 ",
+        "PS/2 Set 1 Break*": "B9",
+        "PS/2 Set 2 Make": "29 ",
+        "PS/2 Set 2 Break": "F0 29"
+    },
+    {
+        "Key Name": "-   ",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "2D",
+        "PS/2 Set 1 Make*": "0C",
+        "PS/2 Set 1 Break*": "8C",
+        "PS/2 Set 2 Make": "4E",
+        "PS/2 Set 2 Break": "F0 4E"
+    },
+    {
+        "Key Name": "= +",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "2E",
+        "PS/2 Set 1 Make*": "0D",
+        "PS/2 Set 1 Break*": "8D",
+        "PS/2 Set 2 Make": "55 ",
+        "PS/2 Set 2 Break": "F0 55"
+    },
+    {
+        "Key Name": "[ {",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "2F",
+        "PS/2 Set 1 Make*": "1A",
+        "PS/2 Set 1 Break*": "9A",
+        "PS/2 Set 2 Make": "54 ",
+        "PS/2 Set 2 Break": "F0 54"
+    },
+    {
+        "Key Name": "] }",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "30 ",
+        "PS/2 Set 1 Make*": "1B",
+        "PS/2 Set 1 Break*": "9B",
+        "PS/2 Set 2 Make": "5B",
+        "PS/2 Set 2 Break": "F0 5B"
+    },
+    {
+        "Key Name": "\\ |",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "31 ",
+        "PS/2 Set 1 Make*": "2B",
+        "PS/2 Set 1 Break*": "AB",
+        "PS/2 Set 2 Make": "5D",
+        "PS/2 Set 2 Break": "F0 5D"
+    },
+    {
+        "Key Name": "Europe 1 (Note 2)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "32 ",
+        "PS/2 Set 1 Make*": "2B",
+        "PS/2 Set 1 Break*": "AB",
+        "PS/2 Set 2 Make": "5D",
+        "PS/2 Set 2 Break": "F0 5D"
+    },
+    {
+        "Key Name": "; :",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "33 ",
+        "PS/2 Set 1 Make*": "27 ",
+        "PS/2 Set 1 Break*": "A7",
+        "PS/2 Set 2 Make": "4C",
+        "PS/2 Set 2 Break": "F0 4C"
+    },
+    {
+        "Key Name": "' \"",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "34 ",
+        "PS/2 Set 1 Make*": "28 ",
+        "PS/2 Set 1 Break*": "A8",
+        "PS/2 Set 2 Make": "52 ",
+        "PS/2 Set 2 Break": "F0 52"
+    },
+    {
+        "Key Name": "` ~",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "35 ",
+        "PS/2 Set 1 Make*": "29 ",
+        "PS/2 Set 1 Break*": "A9",
+        "PS/2 Set 2 Make": "0E",
+        "PS/2 Set 2 Break": "F0 0E"
+    },
+    {
+        "Key Name": ", <",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "36 ",
+        "PS/2 Set 1 Make*": "33 ",
+        "PS/2 Set 1 Break*": "B3",
+        "PS/2 Set 2 Make": "41 ",
+        "PS/2 Set 2 Break": "F0 41"
+    },
+    {
+        "Key Name": ". >",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "37 ",
+        "PS/2 Set 1 Make*": "34 ",
+        "PS/2 Set 1 Break*": "B4",
+        "PS/2 Set 2 Make": "49 ",
+        "PS/2 Set 2 Break": "F0 49"
+    },
+    {
+        "Key Name": "/ ?",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "38 ",
+        "PS/2 Set 1 Make*": "35 ",
+        "PS/2 Set 1 Break*": "B5",
+        "PS/2 Set 2 Make": "4A",
+        "PS/2 Set 2 Break": "F0 4A"
+    },
+    {
+        "Key Name": "Caps Lock",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "39 ",
+        "PS/2 Set 1 Make*": "3A",
+        "PS/2 Set 1 Break*": "BA",
+        "PS/2 Set 2 Make": "58 ",
+        "PS/2 Set 2 Break": "F0 58"
+    },
+    {
+        "Key Name": "F1",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "3A",
+        "PS/2 Set 1 Make*": "3B",
+        "PS/2 Set 1 Break*": "BB",
+        "PS/2 Set 2 Make": "05 ",
+        "PS/2 Set 2 Break": "F0 05"
+    },
+    {
+        "Key Name": "F2",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "3B",
+        "PS/2 Set 1 Make*": "3C",
+        "PS/2 Set 1 Break*": "BC",
+        "PS/2 Set 2 Make": "06 ",
+        "PS/2 Set 2 Break": "F0 06"
+    },
+    {
+        "Key Name": "F3",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "3C",
+        "PS/2 Set 1 Make*": "3D",
+        "PS/2 Set 1 Break*": "BD",
+        "PS/2 Set 2 Make": "04 ",
+        "PS/2 Set 2 Break": "F0 04"
+    },
+    {
+        "Key Name": "F4",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "3D",
+        "PS/2 Set 1 Make*": "3E",
+        "PS/2 Set 1 Break*": "BE",
+        "PS/2 Set 2 Make": "0C",
+        "PS/2 Set 2 Break": "F0 0C"
+    },
+    {
+        "Key Name": "F5",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "3E",
+        "PS/2 Set 1 Make*": "3F",
+        "PS/2 Set 1 Break*": "BF",
+        "PS/2 Set 2 Make": "03 ",
+        "PS/2 Set 2 Break": "F0 03"
+    },
+    {
+        "Key Name": "F6",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "3F",
+        "PS/2 Set 1 Make*": "40 ",
+        "PS/2 Set 1 Break*": "C0",
+        "PS/2 Set 2 Make": "0B",
+        "PS/2 Set 2 Break": "F0 0B"
+    },
+    {
+        "Key Name": "F7",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "40 ",
+        "PS/2 Set 1 Make*": "41 ",
+        "PS/2 Set 1 Break*": "C1",
+        "PS/2 Set 2 Make": "83 ",
+        "PS/2 Set 2 Break": "F0 83"
+    },
+    {
+        "Key Name": "F8",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "41 ",
+        "PS/2 Set 1 Make*": "42 ",
+        "PS/2 Set 1 Break*": "C2",
+        "PS/2 Set 2 Make": "0A",
+        "PS/2 Set 2 Break": "F0 0A"
+    },
+    {
+        "Key Name": "F9",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "42 ",
+        "PS/2 Set 1 Make*": "43 ",
+        "PS/2 Set 1 Break*": "C3",
+        "PS/2 Set 2 Make": "01 ",
+        "PS/2 Set 2 Break": "F0 01"
+    },
+    {
+        "Key Name": "F10",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "43 ",
+        "PS/2 Set 1 Make*": "44 ",
+        "PS/2 Set 1 Break*": "C4",
+        "PS/2 Set 2 Make": "09 ",
+        "PS/2 Set 2 Break": "F0 09"
+    },
+    {
+        "Key Name": "F11",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "44 ",
+        "PS/2 Set 1 Make*": "57 ",
+        "PS/2 Set 1 Break*": "D7",
+        "PS/2 Set 2 Make": "78 ",
+        "PS/2 Set 2 Break": "F0 78"
+    },
+    {
+        "Key Name": "F12",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "45 ",
+        "PS/2 Set 1 Make*": "58 ",
+        "PS/2 Set 1 Break*": "D8",
+        "PS/2 Set 2 Make": "07 ",
+        "PS/2 Set 2 Break": "F0 07"
+    },
+    {
+        "Key Name": "Print Screen (Note 1)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "46 ",
+        "PS/2 Set 1 Make*": "E0 37",
+        "PS/2 Set 1 Break*": "E0 B7",
+        "PS/2 Set 2 Make": "E0 7C",
+        "PS/2 Set 2 Break": "E0 F0 7C"
+    },
+    {
+        "Key Name": "Scroll Lock",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "47 ",
+        "PS/2 Set 1 Make*": "46 ",
+        "PS/2 Set 1 Break*": "C6",
+        "PS/2 Set 2 Make": "7E",
+        "PS/2 Set 2 Break": "F0 7E"
+    },
+    {
+        "Key Name": "Break (Ctrl-Pause)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "48 ",
+        "PS/2 Set 1 Make*": "E0 46\nE0 C6",
+        "PS/2 Set 1 Break*": "None",
+        "PS/2 Set 2 Make": "E0 7E\nE0 F0 7E",
+        "PS/2 Set 2 Break": "None"
+    },
+    {
+        "Key Name": "Pause",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "48 ",
+        "PS/2 Set 1 Make*": "E1 1D 45\nE1 9D C5",
+        "PS/2 Set 1 Break*": "None",
+        "PS/2 Set 2 Make": "E1 14 77\nE1 F0 14\nF0 77",
+        "PS/2 Set 2 Break": "None"
+    },
+    {
+        "Key Name": "Insert (Note 1)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "49 ",
+        "PS/2 Set 1 Make*": "E0 52",
+        "PS/2 Set 1 Break*": "E0 D2",
+        "PS/2 Set 2 Make": "E0 70",
+        "PS/2 Set 2 Break": "E0 F0 70"
+    },
+    {
+        "Key Name": "Home (Note 1)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "4A",
+        "PS/2 Set 1 Make*": "E0 47",
+        "PS/2 Set 1 Break*": "E0 C7",
+        "PS/2 Set 2 Make": "E0 6C",
+        "PS/2 Set 2 Break": "E0 F0 6C"
+    },
+    {
+        "Key Name": "Page Up (Note 1)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "4B",
+        "PS/2 Set 1 Make*": "E0 49",
+        "PS/2 Set 1 Break*": "E0 C9",
+        "PS/2 Set 2 Make": "E0 7D",
+        "PS/2 Set 2 Break": "E0 F0 7D"
+    },
+    {
+        "Key Name": "Delete (Note 1)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "4C",
+        "PS/2 Set 1 Make*": "E0 53",
+        "PS/2 Set 1 Break*": "E0 D3",
+        "PS/2 Set 2 Make": "E0 71",
+        "PS/2 Set 2 Break": "E0 F0 71"
+    },
+    {
+        "Key Name": "End (Note 1)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "4D",
+        "PS/2 Set 1 Make*": "E0 4F",
+        "PS/2 Set 1 Break*": "E0 CF",
+        "PS/2 Set 2 Make": "E0 69",
+        "PS/2 Set 2 Break": "E0 F0 69"
+    },
+    {
+        "Key Name": "Page Down (Note 1)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "4E",
+        "PS/2 Set 1 Make*": "E0 51",
+        "PS/2 Set 1 Break*": "E0 D1",
+        "PS/2 Set 2 Make": "E0 7A",
+        "PS/2 Set 2 Break": "E0 F0 7A"
+    },
+    {
+        "Key Name": "Right Arrow (Note 1)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "4F",
+        "PS/2 Set 1 Make*": "E0 4D",
+        "PS/2 Set 1 Break*": "E0 CD",
+        "PS/2 Set 2 Make": "E0 74",
+        "PS/2 Set 2 Break": "E0 F0 74"
+    },
+    {
+        "Key Name": "Left Arrow (Note 1)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "50 ",
+        "PS/2 Set 1 Make*": "E0 4B",
+        "PS/2 Set 1 Break*": "E0 CB",
+        "PS/2 Set 2 Make": "E0 6B",
+        "PS/2 Set 2 Break": "E0 F0 6B"
+    },
+    {
+        "Key Name": "Down Arrow (Note 1)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "51 ",
+        "PS/2 Set 1 Make*": "E0 50",
+        "PS/2 Set 1 Break*": "E0 D0",
+        "PS/2 Set 2 Make": "E0 72",
+        "PS/2 Set 2 Break": "E0 F0 72"
+    },
+    {
+        "Key Name": "Up Arrow (Note 1)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "52 ",
+        "PS/2 Set 1 Make*": "E0 48",
+        "PS/2 Set 1 Break*": "E0 C8",
+        "PS/2 Set 2 Make": "E0 75",
+        "PS/2 Set 2 Break": "E0 F0 75"
+    },
+    {
+        "Key Name": "Num Lock",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "53 ",
+        "PS/2 Set 1 Make*": "45 ",
+        "PS/2 Set 1 Break*": "C5",
+        "PS/2 Set 2 Make": "77 ",
+        "PS/2 Set 2 Break": "F0 77"
+    },
+    {
+        "Key Name": "Keypad / (Note 1)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "54 ",
+        "PS/2 Set 1 Make*": "E0 35",
+        "PS/2 Set 1 Break*": "E0 B5",
+        "PS/2 Set 2 Make": "E0 4A",
+        "PS/2 Set 2 Break": "E0 F0 4A"
+    },
+    {
+        "Key Name": "Keypad *",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "55 ",
+        "PS/2 Set 1 Make*": "37 ",
+        "PS/2 Set 1 Break*": "B7",
+        "PS/2 Set 2 Make": "7C",
+        "PS/2 Set 2 Break": "F0 7C"
+    },
+    {
+        "Key Name": "Keypad -",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "56 ",
+        "PS/2 Set 1 Make*": "4A",
+        "PS/2 Set 1 Break*": "CA",
+        "PS/2 Set 2 Make": "7B",
+        "PS/2 Set 2 Break": "F0 7B"
+    },
+    {
+        "Key Name": "Keypad +",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "57 ",
+        "PS/2 Set 1 Make*": "4E",
+        "PS/2 Set 1 Break*": "CE",
+        "PS/2 Set 2 Make": "79 ",
+        "PS/2 Set 2 Break": "F0 79"
+    },
+    {
+        "Key Name": "Keypad Enter",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "58 ",
+        "PS/2 Set 1 Make*": "E0 1C",
+        "PS/2 Set 1 Break*": "E0 9C",
+        "PS/2 Set 2 Make": "E0 5A",
+        "PS/2 Set 2 Break": "E0 F0 5A"
+    },
+    {
+        "Key Name": "Keypad 1 End",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "59 ",
+        "PS/2 Set 1 Make*": "4F",
+        "PS/2 Set 1 Break*": "CF",
+        "PS/2 Set 2 Make": "69 ",
+        "PS/2 Set 2 Break": "F0 69"
+    },
+    {
+        "Key Name": "Keypad 2 Down",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "5A",
+        "PS/2 Set 1 Make*": "50 ",
+        "PS/2 Set 1 Break*": "D0",
+        "PS/2 Set 2 Make": "72 ",
+        "PS/2 Set 2 Break": "F0 72"
+    },
+    {
+        "Key Name": "Keypad 3 PageDn",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "5B",
+        "PS/2 Set 1 Make*": "51 ",
+        "PS/2 Set 1 Break*": "D1",
+        "PS/2 Set 2 Make": "7A",
+        "PS/2 Set 2 Break": "F0 7A"
+    },
+    {
+        "Key Name": "Keypad 4 Left",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "5C",
+        "PS/2 Set 1 Make*": "4B",
+        "PS/2 Set 1 Break*": "CB",
+        "PS/2 Set 2 Make": "6B",
+        "PS/2 Set 2 Break": "F0 6B"
+    },
+    {
+        "Key Name": "Keypad 5",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "5D",
+        "PS/2 Set 1 Make*": "4C",
+        "PS/2 Set 1 Break*": "CC",
+        "PS/2 Set 2 Make": "73 ",
+        "PS/2 Set 2 Break": "F0 73"
+    },
+    {
+        "Key Name": "Keypad 6 Right",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "5E",
+        "PS/2 Set 1 Make*": "4D",
+        "PS/2 Set 1 Break*": "CD",
+        "PS/2 Set 2 Make": "74 ",
+        "PS/2 Set 2 Break": "F0 74"
+    },
+    {
+        "Key Name": "Keypad 7 Home",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "5F",
+        "PS/2 Set 1 Make*": "47 ",
+        "PS/2 Set 1 Break*": "C7",
+        "PS/2 Set 2 Make": "6C",
+        "PS/2 Set 2 Break": "F0 6C"
+    },
+    {
+        "Key Name": "Keypad 8 Up",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "60 ",
+        "PS/2 Set 1 Make*": "48 ",
+        "PS/2 Set 1 Break*": "C8",
+        "PS/2 Set 2 Make": "75 ",
+        "PS/2 Set 2 Break": "F0 75"
+    },
+    {
+        "Key Name": "Keypad 9 PageUp",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "61 ",
+        "PS/2 Set 1 Make*": "49 ",
+        "PS/2 Set 1 Break*": "C9",
+        "PS/2 Set 2 Make": "7D",
+        "PS/2 Set 2 Break": "F0 7D"
+    },
+    {
+        "Key Name": "Keypad 0 Insert",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "62 ",
+        "PS/2 Set 1 Make*": "52 ",
+        "PS/2 Set 1 Break*": "D2",
+        "PS/2 Set 2 Make": "70 ",
+        "PS/2 Set 2 Break": "F0 70"
+    },
+    {
+        "Key Name": "Keypad . Delete",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "63 ",
+        "PS/2 Set 1 Make*": "53 ",
+        "PS/2 Set 1 Break*": "D3",
+        "PS/2 Set 2 Make": "71 ",
+        "PS/2 Set 2 Break": "F0 71"
+    },
+    {
+        "Key Name": "Europe 2 (Note 2)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "64 ",
+        "PS/2 Set 1 Make*": "56 ",
+        "PS/2 Set 1 Break*": "D6",
+        "PS/2 Set 2 Make": "61 ",
+        "PS/2 Set 2 Break": "F0 61"
+    },
+    {
+        "Key Name": "App",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "65 ",
+        "PS/2 Set 1 Make*": "E0 5D",
+        "PS/2 Set 1 Break*": "E0 DD",
+        "PS/2 Set 2 Make": "E0 2F",
+        "PS/2 Set 2 Break": "E0 F0 2F"
+    },
+    {
+        "Key Name": "Keyboard Power",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "66 ",
+        "PS/2 Set 1 Make*": "E0 5E",
+        "PS/2 Set 1 Break*": "E0 DE",
+        "PS/2 Set 2 Make": "E0 37",
+        "PS/2 Set 2 Break": "E0 F0 37"
+    },
+    {
+        "Key Name": "Keypad =",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "67 ",
+        "PS/2 Set 1 Make*": "59 ",
+        "PS/2 Set 1 Break*": "D9",
+        "PS/2 Set 2 Make": "0F",
+        "PS/2 Set 2 Break": "F0 0F"
+    },
+    {
+        "Key Name": "F13",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "68 ",
+        "PS/2 Set 1 Make*": "64 ",
+        "PS/2 Set 1 Break*": "E4",
+        "PS/2 Set 2 Make": "08 ",
+        "PS/2 Set 2 Break": "F0 08"
+    },
+    {
+        "Key Name": "F14",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "69 ",
+        "PS/2 Set 1 Make*": "65 ",
+        "PS/2 Set 1 Break*": "E5",
+        "PS/2 Set 2 Make": "10 ",
+        "PS/2 Set 2 Break": "F0 10"
+    },
+    {
+        "Key Name": "F15",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "6A",
+        "PS/2 Set 1 Make*": "66 ",
+        "PS/2 Set 1 Break*": "E6",
+        "PS/2 Set 2 Make": "18 ",
+        "PS/2 Set 2 Break": "F0 18"
+    },
+    {
+        "Key Name": "F16",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "6B",
+        "PS/2 Set 1 Make*": "67 ",
+        "PS/2 Set 1 Break*": "E7",
+        "PS/2 Set 2 Make": "20 ",
+        "PS/2 Set 2 Break": "F0 20"
+    },
+    {
+        "Key Name": "F17",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "6C",
+        "PS/2 Set 1 Make*": "68 ",
+        "PS/2 Set 1 Break*": "E8",
+        "PS/2 Set 2 Make": "28 ",
+        "PS/2 Set 2 Break": "F0 28"
+    },
+    {
+        "Key Name": "F18",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "6D",
+        "PS/2 Set 1 Make*": "69 ",
+        "PS/2 Set 1 Break*": "E9",
+        "PS/2 Set 2 Make": "30 ",
+        "PS/2 Set 2 Break": "F0 30"
+    },
+    {
+        "Key Name": "F19",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "6E",
+        "PS/2 Set 1 Make*": "6A",
+        "PS/2 Set 1 Break*": "EA",
+        "PS/2 Set 2 Make": "38 ",
+        "PS/2 Set 2 Break": "F0 38"
+    },
+    {
+        "Key Name": "F20",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "6F",
+        "PS/2 Set 1 Make*": "6B",
+        "PS/2 Set 1 Break*": "EB",
+        "PS/2 Set 2 Make": "40 ",
+        "PS/2 Set 2 Break": "F0 40"
+    },
+    {
+        "Key Name": "F21",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "70 ",
+        "PS/2 Set 1 Make*": "6C",
+        "PS/2 Set 1 Break*": "EC",
+        "PS/2 Set 2 Make": "48 ",
+        "PS/2 Set 2 Break": "F0 48"
+    },
+    {
+        "Key Name": "F22",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "71 ",
+        "PS/2 Set 1 Make*": "6D",
+        "PS/2 Set 1 Break*": "ED",
+        "PS/2 Set 2 Make": "50 ",
+        "PS/2 Set 2 Break": "F0 50"
+    },
+    {
+        "Key Name": "F23",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "72 ",
+        "PS/2 Set 1 Make*": "6E",
+        "PS/2 Set 1 Break*": "EE",
+        "PS/2 Set 2 Make": "57 ",
+        "PS/2 Set 2 Break": "F0 57"
+    },
+    {
+        "Key Name": "F24",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "73 ",
+        "PS/2 Set 1 Make*": "76 ",
+        "PS/2 Set 1 Break*": "F6",
+        "PS/2 Set 2 Make": "5F",
+        "PS/2 Set 2 Break": "F0 5F"
+    },
+    {
+        "Key Name": "Keyboard Execute",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "74 ",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Help",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "75 ",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Menu",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "76 ",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Select",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "77 ",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Stop",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "78 ",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Again",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "79 ",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Undo",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "7A",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Cut",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "7B",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Copy",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "7C",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Paste",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "7D",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Find",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "7E",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Mute",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "7F",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Volume Up",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "80 ",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Volume Dn",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "81 ",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Locking\nCaps Lock",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "82 ",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Locking\nNum Lock",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "83 ",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Locking\nScroll Lock",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "84 ",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keypad ,\n(Brazilian Keypad .)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "85 ",
+        "PS/2 Set 1 Make*": "7E",
+        "PS/2 Set 1 Break*": "FE",
+        "PS/2 Set 2 Make": "6D",
+        "PS/2 Set 2 Break": "F0 6D"
+    },
+    {
+        "Key Name": "Keyboard Equal Sign",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "86 ",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Int'l 1\nろ\n(Ro)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "87 ",
+        "PS/2 Set 1 Make*": "73 ",
+        "PS/2 Set 1 Break*": "F3",
+        "PS/2 Set 2 Make": "51 ",
+        "PS/2 Set 2 Break": "F0 51"
+    },
+    {
+        "Key Name": "Keyboard Intl'2\nかかかか\nひひひか\nロロロ字\n(Katakana/Hiragana)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "88 ",
+        "PS/2 Set 1 Make*": "70 ",
+        "PS/2 Set 1 Break*": "F0",
+        "PS/2 Set 2 Make": "13 ",
+        "PS/2 Set 2 Break": "F0 13"
+    },
+    {
+        "Key Name": "Keyboard Int'l 2\n¥\n(Yen)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "89 ",
+        "PS/2 Set 1 Make*": "7D",
+        "PS/2 Set 1 Break*": "FD",
+        "PS/2 Set 2 Make": "6A",
+        "PS/2 Set 2 Break": "F0 6A"
+    },
+    {
+        "Key Name": "Keyboard Int'l 4\n前前前\n変変(次前前)\n全前前\n(Henkan)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "8A",
+        "PS/2 Set 1 Make*": "79 ",
+        "PS/2 Set 1 Break*": "F9",
+        "PS/2 Set 2 Make": "64 ",
+        "PS/2 Set 2 Break": "F0 64"
+    },
+    {
+        "Key Name": "Keyboard Int'l 5\n無変変\n(Muhenkan)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "8B",
+        "PS/2 Set 1 Make*": "7B",
+        "PS/2 Set 1 Break*": "FB",
+        "PS/2 Set 2 Make": "67 ",
+        "PS/2 Set 2 Break": "F0 67"
+    },
+    {
+        "Key Name": "Keyboard Int'l 6\n(PC9800 Keypad , )",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "8C",
+        "PS/2 Set 1 Make*": "5C",
+        "PS/2 Set 1 Break*": "DC",
+        "PS/2 Set 2 Make": "27 ",
+        "PS/2 Set 2 Break": "F0 27"
+    },
+    {
+        "Key Name": "Keyboard Int'l 7",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "8D",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Int'l 8",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "8E",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Int'l 9",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "8F",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Lang 1\n한/옝\n(Hanguel/English)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "90 ",
+        "PS/2 Set 1 Make*": "F2",
+        "PS/2 Set 1 Break*": "None",
+        "PS/2 Set 2 Make": "F2",
+        "PS/2 Set 2 Break": "None"
+    },
+    {
+        "Key Name": "Keyboard Lang 2\n한한\n(Hanja)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "91 ",
+        "PS/2 Set 1 Make*": "F1",
+        "PS/2 Set 1 Break*": "None",
+        "PS/2 Set 2 Make": "F1",
+        "PS/2 Set 2 Break": "None"
+    },
+    {
+        "Key Name": "Keyboard Lang 3\nかかかか\n(Katakana)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "92 ",
+        "PS/2 Set 1 Make*": "78 ",
+        "PS/2 Set 1 Break*": "F8",
+        "PS/2 Set 2 Make": "63 ",
+        "PS/2 Set 2 Break": "F0 63"
+    },
+    {
+        "Key Name": "Keyboard Lang 4\nひひひか\n(Hiragana)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "93 ",
+        "PS/2 Set 1 Make*": "77 ",
+        "PS/2 Set 1 Break*": "F7",
+        "PS/2 Set 2 Make": "62 ",
+        "PS/2 Set 2 Break": "F0 62"
+    },
+    {
+        "Key Name": "Keyboard Lang 5\n半半/全半\n(Zenkaku/Hankaku)",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "94 ",
+        "PS/2 Set 1 Make*": "76 ",
+        "PS/2 Set 1 Break*": "F6",
+        "PS/2 Set 2 Make": "5F",
+        "PS/2 Set 2 Break": "F0 5F"
+    },
+    {
+        "Key Name": "Keyboard Lang 6",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "95 ",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Lang 7",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "96 ",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Lang 8",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "97 ",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Lang 9",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "98 ",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Alternate\nErase",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "99 ",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard\nSysReq/Attention",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "9A",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Cancel",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "9B",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Clear",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "9C",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Prior",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "9D",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Return",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "9E",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Separator",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "9F",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Out",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "A0",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Oper",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "A1",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard Clear/Again",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "A2",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard CrSel/Props",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "A3",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Keyboard ExSel",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "A4",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "RESERVED",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "A5-DF",
+        "PS/2 Set 1 Make*": "RESERVED",
+        "PS/2 Set 1 Break*": "RESERVED",
+        "PS/2 Set 2 Make": "RESERVED",
+        "PS/2 Set 2 Break": "RESERVED"
+    },
+    {
+        "Key Name": "Left Control",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "E0",
+        "PS/2 Set 1 Make*": "1D",
+        "PS/2 Set 1 Break*": "9D",
+        "PS/2 Set 2 Make": "14 ",
+        "PS/2 Set 2 Break": "F0 14"
+    },
+    {
+        "Key Name": "Left Shift",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "E1",
+        "PS/2 Set 1 Make*": "2A",
+        "PS/2 Set 1 Break*": "AA",
+        "PS/2 Set 2 Make": "12 ",
+        "PS/2 Set 2 Break": "F0 12"
+    },
+    {
+        "Key Name": "Left Alt",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "E2",
+        "PS/2 Set 1 Make*": "38 ",
+        "PS/2 Set 1 Break*": "B8",
+        "PS/2 Set 2 Make": "11 ",
+        "PS/2 Set 2 Break": "F0 11"
+    },
+    {
+        "Key Name": "Left GUI",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "E3",
+        "PS/2 Set 1 Make*": "E0 5B",
+        "PS/2 Set 1 Break*": "E0 DB",
+        "PS/2 Set 2 Make": "E0 1F",
+        "PS/2 Set 2 Break": "E0 F0 1F"
+    },
+    {
+        "Key Name": "Right Control",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "E4",
+        "PS/2 Set 1 Make*": "E0 1D",
+        "PS/2 Set 1 Break*": "E0 9D",
+        "PS/2 Set 2 Make": "E0 14",
+        "PS/2 Set 2 Break": "E0 F0 14"
+    },
+    {
+        "Key Name": "Right Shift",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "E5",
+        "PS/2 Set 1 Make*": "36 ",
+        "PS/2 Set 1 Break*": "B6",
+        "PS/2 Set 2 Make": "59 ",
+        "PS/2 Set 2 Break": "F0 59"
+    },
+    {
+        "Key Name": "Right Alt",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "E6",
+        "PS/2 Set 1 Make*": "E0 38",
+        "PS/2 Set 1 Break*": "E0 B8",
+        "PS/2 Set 2 Make": "E0 11",
+        "PS/2 Set 2 Break": "E0 F0 11"
+    },
+    {
+        "Key Name": "Right GUI",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "E7",
+        "PS/2 Set 1 Make*": "E0 5C",
+        "PS/2 Set 1 Break*": "E0 DC",
+        "PS/2 Set 2 Make": "E0 27",
+        "PS/2 Set 2 Break": "E0 F0 27"
+    },
+    {
+        "Key Name": "RESERVED",
+        "HID Usage Page": "07 ",
+        "HID Usage ID": "E8-FFFF",
+        "PS/2 Set 1 Make*": "RESERVED",
+        "PS/2 Set 1 Break*": "RESERVED",
+        "PS/2 Set 2 Make": "RESERVED",
+        "PS/2 Set 2 Break": "RESERVED"
+    },
+    {
+        "Key Name": "Scan Next Track",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "00B5",
+        "PS/2 Set 1 Make*": "E0 19",
+        "PS/2 Set 1 Break*": "E0 99",
+        "PS/2 Set 2 Make": "E0 4D",
+        "PS/2 Set 2 Break": "E0 F0 4D"
+    },
+    {
+        "Key Name": "Scan Previous Track",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "00B6",
+        "PS/2 Set 1 Make*": "E0 10",
+        "PS/2 Set 1 Break*": "E0 90",
+        "PS/2 Set 2 Make": "E0 15",
+        "PS/2 Set 2 Break": "E0 F0 15"
+    },
+    {
+        "Key Name": "Stop",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "00B7",
+        "PS/2 Set 1 Make*": "E0 24",
+        "PS/2 Set 1 Break*": "E0 A4",
+        "PS/2 Set 2 Make": "E0 3B",
+        "PS/2 Set 2 Break": "E0 F0 3B"
+    },
+    {
+        "Key Name": "Play/ Pause",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "00CD",
+        "PS/2 Set 1 Make*": "E0 22",
+        "PS/2 Set 1 Break*": "E0 A2",
+        "PS/2 Set 2 Make": "E0 34",
+        "PS/2 Set 2 Break": "E0 F0 34"
+    },
+    {
+        "Key Name": "Mute",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "00E2",
+        "PS/2 Set 1 Make*": "E0 20",
+        "PS/2 Set 1 Break*": "E0 A0",
+        "PS/2 Set 2 Make": "E0 23",
+        "PS/2 Set 2 Break": "E0 F0 23"
+    },
+    {
+        "Key Name": "Bass Boost",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "00E5",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Loudness",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "00E7",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Volume Up",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "00E9",
+        "PS/2 Set 1 Make*": "E0 30",
+        "PS/2 Set 1 Break*": "E0 B0",
+        "PS/2 Set 2 Make": "E0 32",
+        "PS/2 Set 2 Break": "E0 F0 32"
+    },
+    {
+        "Key Name": "Volume Down",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "00EA",
+        "PS/2 Set 1 Make*": "E0 2E",
+        "PS/2 Set 1 Break*": "E0 AE",
+        "PS/2 Set 2 Make": "E0 21",
+        "PS/2 Set 2 Break": "E0 F0 21"
+    },
+    {
+        "Key Name": "Bass Up",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "0152 ",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Bass Down",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "0153 ",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Treble Up",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "0154 ",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Treble Down",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "0155 ",
+        "PS/2 Set 1 Make*": "UNASSIGNED",
+        "PS/2 Set 1 Break*": "UNASSIGNED",
+        "PS/2 Set 2 Make": "UNASSIGNED",
+        "PS/2 Set 2 Break": "UNASSIGNED"
+    },
+    {
+        "Key Name": "Media Select",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "0183 ",
+        "PS/2 Set 1 Make*": "E0 6D",
+        "PS/2 Set 1 Break*": "E0 ED",
+        "PS/2 Set 2 Make": "E0 50",
+        "PS/2 Set 2 Break": "E0 F0 50"
+    },
+    {
+        "Key Name": "Mail",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "018A",
+        "PS/2 Set 1 Make*": "E0 6C",
+        "PS/2 Set 1 Break*": "E0 EC",
+        "PS/2 Set 2 Make": "E0 48",
+        "PS/2 Set 2 Break": "E0 F0 48"
+    },
+    {
+        "Key Name": "Calculator",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "0192 ",
+        "PS/2 Set 1 Make*": "E0 21",
+        "PS/2 Set 1 Break*": "E0 A1",
+        "PS/2 Set 2 Make": "E0 2B",
+        "PS/2 Set 2 Break": "E0 F0 2B"
+    },
+    {
+        "Key Name": "My Computer",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "0194 ",
+        "PS/2 Set 1 Make*": "E0 6B",
+        "PS/2 Set 1 Break*": "E0 EB",
+        "PS/2 Set 2 Make": "E0 40",
+        "PS/2 Set 2 Break": "E0 F0 40"
+    },
+    {
+        "Key Name": "WWW Search",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "0221 ",
+        "PS/2 Set 1 Make*": "E0 65",
+        "PS/2 Set 1 Break*": "E0 E5",
+        "PS/2 Set 2 Make": "E0 10",
+        "PS/2 Set 2 Break": "E0 F0 10"
+    },
+    {
+        "Key Name": "WWW Home",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "0223 ",
+        "PS/2 Set 1 Make*": "E0 32",
+        "PS/2 Set 1 Break*": "E0 B2",
+        "PS/2 Set 2 Make": "E0 3A",
+        "PS/2 Set 2 Break": "E0 F0 3A"
+    },
+    {
+        "Key Name": "WWW Back",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "0224 ",
+        "PS/2 Set 1 Make*": "E0 6A",
+        "PS/2 Set 1 Break*": "E0 EA",
+        "PS/2 Set 2 Make": "E0 38",
+        "PS/2 Set 2 Break": "E0 F0 38"
+    },
+    {
+        "Key Name": "WWW Forward",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "0225 ",
+        "PS/2 Set 1 Make*": "E0 69",
+        "PS/2 Set 1 Break*": "E0 E9",
+        "PS/2 Set 2 Make": "E0 30",
+        "PS/2 Set 2 Break": "E0 F0 30"
+    },
+    {
+        "Key Name": "WWW Stop",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "0226 ",
+        "PS/2 Set 1 Make*": "E0 68",
+        "PS/2 Set 1 Break*": "E0 E8",
+        "PS/2 Set 2 Make": "E0 28",
+        "PS/2 Set 2 Break": "E0 F0 28"
+    },
+    {
+        "Key Name": "WWW Refresh",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "0227 ",
+        "PS/2 Set 1 Make*": "E0 67",
+        "PS/2 Set 1 Break*": "E0 E7",
+        "PS/2 Set 2 Make": "E0 20",
+        "PS/2 Set 2 Break": "E0 F0 20"
+    },
+    {
+        "Key Name": "WWW Favorites",
+        "HID Usage Page": "0C",
+        "HID Usage ID": "022A",
+        "PS/2 Set 1 Make*": "E0 66",
+        "PS/2 Set 1 Break*": "E0 E6",
+        "PS/2 Set 2 Make": "E0 18",
+        "PS/2 Set 2 Break": "E0 F0 18"
+    },
+    {
+        "Key Name": "DO NOT USE",
+        "HID Usage Page": "DO NOT USE",
+        "HID Usage ID": "DO NOT USE",
+        "PS/2 Set 1 Make*": "00 ",
+        "PS/2 Set 1 Break*": "80 ",
+        "PS/2 Set 2 Make": "DO NOT USE",
+        "PS/2 Set 2 Break": "DO NOT USE"
+    },
+    {
+        "Key Name": "DO NOT USE",
+        "HID Usage Page": "DO NOT USE",
+        "HID Usage ID": "DO NOT USE",
+        "PS/2 Set 1 Make*": "60 ",
+        "PS/2 Set 1 Break*": "E0",
+        "PS/2 Set 2 Make": "47 ",
+        "PS/2 Set 2 Break": "F0 47"
+    },
+    {
+        "Key Name": "DO NOT USE",
+        "HID Usage Page": "DO NOT USE",
+        "HID Usage ID": "DO NOT USE",
+        "PS/2 Set 1 Make*": "61 ",
+        "PS/2 Set 1 Break*": "E1",
+        "PS/2 Set 2 Make": "4F",
+        "PS/2 Set 2 Break": "F0 4F"
+    },
+    {
+        "Key Name": "DO NOT USE",
+        "HID Usage Page": "DO NOT USE",
+        "HID Usage ID": "DO NOT USE",
+        "PS/2 Set 1 Make*": "7A",
+        "PS/2 Set 1 Break*": "FA",
+        "PS/2 Set 2 Make": "65 ",
+        "PS/2 Set 2 Break": "F0 65"
+    },
+    {
+        "Key Name": "DO NOT USE",
+        "HID Usage Page": "DO NOT USE",
+        "HID Usage ID": "DO NOT USE",
+        "PS/2 Set 1 Make*": "7C",
+        "PS/2 Set 1 Break*": "FC",
+        "PS/2 Set 2 Make": "68 ",
+        "PS/2 Set 2 Break": "F0 68"
+    },
+    {
+        "Key Name": "DO NOT USE",
+        "HID Usage Page": "DO NOT USE",
+        "HID Usage ID": "DO NOT USE",
+        "PS/2 Set 1 Make*": "7F",
+        "PS/2 Set 1 Break*": "FF",
+        "PS/2 Set 2 Make": "6E",
+        "PS/2 Set 2 Break": "F0 6E"
+    },
+    {
+        "Key Name": "DO NOT USE",
+        "HID Usage Page": "DO NOT USE",
+        "HID Usage ID": "DO NOT USE",
+        "PS/2 Set 1 Make*": "E0 60",
+        "PS/2 Set 1 Break*": "E0 E0",
+        "PS/2 Set 2 Make": "E0 47",
+        "PS/2 Set 2 Break": "E0 F0 47"
+    },
+    {
+        "Key Name": "DO NOT USE",
+        "HID Usage Page": "DO NOT USE",
+        "HID Usage ID": "DO NOT USE",
+        "PS/2 Set 1 Make*": "E0 61",
+        "PS/2 Set 1 Break*": "E0 E1",
+        "PS/2 Set 2 Make": "E0 4F",
+        "PS/2 Set 2 Break": "E0 F0 4F"
+    },
+    {
+        "Key Name": "DO NOT USE",
+        "HID Usage Page": "DO NOT USE",
+        "HID Usage ID": "DO NOT USE",
+        "PS/2 Set 1 Make*": "E0 7A",
+        "PS/2 Set 1 Break*": "E0 FA",
+        "PS/2 Set 2 Make": "E0 65",
+        "PS/2 Set 2 Break": "E0 F0 65"
+    },
+    {
+        "Key Name": "DO NOT USE",
+        "HID Usage Page": "DO NOT USE",
+        "HID Usage ID": "DO NOT USE",
+        "PS/2 Set 1 Make*": "E0 7B",
+        "PS/2 Set 1 Break*": "E0 FB",
+        "PS/2 Set 2 Make": "E0 67",
+        "PS/2 Set 2 Break": "E0 F0 67"
+    },
+    {
+        "Key Name": "DO NOT USE",
+        "HID Usage Page": "DO NOT USE",
+        "HID Usage ID": "DO NOT USE",
+        "PS/2 Set 1 Make*": "E0 7C",
+        "PS/2 Set 1 Break*": "E0 FC",
+        "PS/2 Set 2 Make": "E0 68",
+        "PS/2 Set 2 Break": "E0 F0 68"
+    },
+    {
+        "Key Name": "DO NOT USE",
+        "HID Usage Page": "DO NOT USE",
+        "HID Usage ID": "DO NOT USE",
+        "PS/2 Set 1 Make*": "E0 7D",
+        "PS/2 Set 1 Break*": "E0 FD",
+        "PS/2 Set 2 Make": "E0 6A",
+        "PS/2 Set 2 Break": "E0 F0 6A"
+    },
+    {
+        "Key Name": "DO NOT USE",
+        "HID Usage Page": "DO NOT USE",
+        "HID Usage ID": "DO NOT USE",
+        "PS/2 Set 1 Make*": "E0 7E",
+        "PS/2 Set 1 Break*": "E0 FE",
+        "PS/2 Set 2 Make": "E0 6D",
+        "PS/2 Set 2 Break": "E0 F0 6D"
+    },
+    {
+        "Key Name": "DO NOT USE",
+        "HID Usage Page": "DO NOT USE",
+        "HID Usage ID": "DO NOT USE",
+        "PS/2 Set 1 Make*": "E0 7F",
+        "PS/2 Set 1 Break*": "E0 FF",
+        "PS/2 Set 2 Make": "E0 6E",
+        "PS/2 Set 2 Break": "E0 F0 6E"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "54 ",
+        "PS/2 Set 1 Break*": "D4",
+        "PS/2 Set 2 Make": "7F",
+        "PS/2 Set 2 Break": "F0 7F"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "54 ",
+        "PS/2 Set 1 Break*": "D4",
+        "PS/2 Set 2 Make": "84 ",
+        "PS/2 Set 2 Break": "F0 84"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "55 ",
+        "PS/2 Set 1 Break*": "D5",
+        "PS/2 Set 2 Make": "60 ",
+        "PS/2 Set 2 Break": "F0 60"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "5A",
+        "PS/2 Set 1 Break*": "DA",
+        "PS/2 Set 2 Make": "17 ",
+        "PS/2 Set 2 Break": "F0 17"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "5B",
+        "PS/2 Set 1 Break*": "DB",
+        "PS/2 Set 2 Make": "1F",
+        "PS/2 Set 2 Break": "F0 1F"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "62 ",
+        "PS/2 Set 1 Break*": "E2",
+        "PS/2 Set 2 Make": "56 ",
+        "PS/2 Set 2 Break": "F0 56"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "63 ",
+        "PS/2 Set 1 Break*": "E3",
+        "PS/2 Set 2 Make": "5E",
+        "PS/2 Set 2 Break": "F0 5E"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "64 ",
+        "PS/2 Set 1 Break*": "E4",
+        "PS/2 Set 2 Make": "08 ",
+        "PS/2 Set 2 Break": "F0 08"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "65 ",
+        "PS/2 Set 1 Break*": "E5",
+        "PS/2 Set 2 Make": "10 ",
+        "PS/2 Set 2 Break": "F0 10"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "66 ",
+        "PS/2 Set 1 Break*": "E6",
+        "PS/2 Set 2 Make": "18 ",
+        "PS/2 Set 2 Break": "F0 18"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "67 ",
+        "PS/2 Set 1 Break*": "E7",
+        "PS/2 Set 2 Make": "20 ",
+        "PS/2 Set 2 Break": "F0 20"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "68 ",
+        "PS/2 Set 1 Break*": "E8",
+        "PS/2 Set 2 Make": "28 ",
+        "PS/2 Set 2 Break": "F0 28"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "69 ",
+        "PS/2 Set 1 Break*": "E9",
+        "PS/2 Set 2 Make": "30 ",
+        "PS/2 Set 2 Break": "F0 30"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "6A",
+        "PS/2 Set 1 Break*": "EA",
+        "PS/2 Set 2 Make": "38 ",
+        "PS/2 Set 2 Break": "F0 38"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "6B",
+        "PS/2 Set 1 Break*": "EB",
+        "PS/2 Set 2 Make": "40 ",
+        "PS/2 Set 2 Break": "F0 40"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "6C",
+        "PS/2 Set 1 Break*": "EC",
+        "PS/2 Set 2 Make": "48 ",
+        "PS/2 Set 2 Break": "F0 48"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "6D",
+        "PS/2 Set 1 Break*": "ED",
+        "PS/2 Set 2 Make": "50 ",
+        "PS/2 Set 2 Break": "F0 50"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "6E",
+        "PS/2 Set 1 Break*": "EE",
+        "PS/2 Set 2 Make": "57 ",
+        "PS/2 Set 2 Break": "F0 57"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "6F",
+        "PS/2 Set 1 Break*": "EF",
+        "PS/2 Set 2 Make": "6F",
+        "PS/2 Set 2 Break": "F0 6F"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "71 ",
+        "PS/2 Set 1 Break*": "F1",
+        "PS/2 Set 2 Make": "19 ",
+        "PS/2 Set 2 Break": "F0 19"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "72 ",
+        "PS/2 Set 1 Break*": "F2",
+        "PS/2 Set 2 Make": "39 ",
+        "PS/2 Set 2 Break": "F0 39"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "74 ",
+        "PS/2 Set 1 Break*": "F4",
+        "PS/2 Set 2 Make": "53 ",
+        "PS/2 Set 2 Break": "F0 53"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "75 ",
+        "PS/2 Set 1 Break*": "F5",
+        "PS/2 Set 2 Make": "5C",
+        "PS/2 Set 2 Break": "F0 5C"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 01",
+        "PS/2 Set 1 Break*": "E0 81",
+        "PS/2 Set 2 Make": "E0 76",
+        "PS/2 Set 2 Break": "E0 F0 76"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 02",
+        "PS/2 Set 1 Break*": "E0 82",
+        "PS/2 Set 2 Make": "E0 16",
+        "PS/2 Set 2 Break": "E0 F0 16"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 03",
+        "PS/2 Set 1 Break*": "E0 83",
+        "PS/2 Set 2 Make": "E0 1E",
+        "PS/2 Set 2 Break": "E0 F0 1E"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 04",
+        "PS/2 Set 1 Break*": "E0 84",
+        "PS/2 Set 2 Make": "E0 26",
+        "PS/2 Set 2 Break": "E0 F0 26"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 05",
+        "PS/2 Set 1 Break*": "E0 85",
+        "PS/2 Set 2 Make": "E0 25",
+        "PS/2 Set 2 Break": "E0 F0 25"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 06",
+        "PS/2 Set 1 Break*": "E0 86",
+        "PS/2 Set 2 Make": "E0 2E",
+        "PS/2 Set 2 Break": "E0 F0 2E"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 07",
+        "PS/2 Set 1 Break*": "E0 87",
+        "PS/2 Set 2 Make": "E0 36",
+        "PS/2 Set 2 Break": "E0 F0 36"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 08",
+        "PS/2 Set 1 Break*": "E0 88",
+        "PS/2 Set 2 Make": "E0 3D",
+        "PS/2 Set 2 Break": "E0 F0 3D"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 09",
+        "PS/2 Set 1 Break*": "E0 89",
+        "PS/2 Set 2 Make": "E0 3E",
+        "PS/2 Set 2 Break": "E0 F0 3E"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 0A",
+        "PS/2 Set 1 Break*": "E0 0A",
+        "PS/2 Set 2 Make": "E0 46",
+        "PS/2 Set 2 Break": "E0 F0 46"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 0B",
+        "PS/2 Set 1 Break*": "E0 0B",
+        "PS/2 Set 2 Make": "E0 45",
+        "PS/2 Set 2 Break": "E0 F0 45"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 0C",
+        "PS/2 Set 1 Break*": "E0 0C",
+        "PS/2 Set 2 Make": "E0 4E",
+        "PS/2 Set 2 Break": "E0 F0 4E"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 0D",
+        "PS/2 Set 1 Break*": "E0 0D",
+        "PS/2 Set 2 Make": "E0 55",
+        "PS/2 Set 2 Break": "E0 F0 55"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 0E",
+        "PS/2 Set 1 Break*": "E0 0E",
+        "PS/2 Set 2 Make": "E0 66",
+        "PS/2 Set 2 Break": "E0 F0 66"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 0F",
+        "PS/2 Set 1 Break*": "E0 0F",
+        "PS/2 Set 2 Make": "E0 0D",
+        "PS/2 Set 2 Break": "E0 F0 0D"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 11",
+        "PS/2 Set 1 Break*": "E0 91",
+        "PS/2 Set 2 Make": "E0 1D",
+        "PS/2 Set 2 Break": "E0 F0 1D"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 12",
+        "PS/2 Set 1 Break*": "E0 92",
+        "PS/2 Set 2 Make": "E0 24",
+        "PS/2 Set 2 Break": "E0 F0 24"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 13",
+        "PS/2 Set 1 Break*": "E0 93",
+        "PS/2 Set 2 Make": "E0 2D",
+        "PS/2 Set 2 Break": "E0 F0 2D"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 14",
+        "PS/2 Set 1 Break*": "E0 94",
+        "PS/2 Set 2 Make": "E0 2C",
+        "PS/2 Set 2 Break": "E0 F0 2C"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 15",
+        "PS/2 Set 1 Break*": "E0 95",
+        "PS/2 Set 2 Make": "E0 35",
+        "PS/2 Set 2 Break": "E0 F0 35"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 16",
+        "PS/2 Set 1 Break*": "E0 96",
+        "PS/2 Set 2 Make": "E0 3C",
+        "PS/2 Set 2 Break": "E0 F0 3C"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 17",
+        "PS/2 Set 1 Break*": "E0 97",
+        "PS/2 Set 2 Make": "E0 43",
+        "PS/2 Set 2 Break": "E0 F0 43"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 18",
+        "PS/2 Set 1 Break*": "E0 98",
+        "PS/2 Set 2 Make": "E0 44",
+        "PS/2 Set 2 Break": "E0 F0 44"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 1A",
+        "PS/2 Set 1 Break*": "E0 9A",
+        "PS/2 Set 2 Make": "E0 54",
+        "PS/2 Set 2 Break": "E0 F0 54"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 1B",
+        "PS/2 Set 1 Break*": "E0 9B",
+        "PS/2 Set 2 Make": "E0 5B",
+        "PS/2 Set 2 Break": "E0 F0 5B"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 1E",
+        "PS/2 Set 1 Break*": "E0 9E",
+        "PS/2 Set 2 Make": "E0 1C",
+        "PS/2 Set 2 Break": "E0 F0 1C"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 1F",
+        "PS/2 Set 1 Break*": "E0 9F",
+        "PS/2 Set 2 Make": "E0 1B",
+        "PS/2 Set 2 Break": "E0 F0 1B"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 23",
+        "PS/2 Set 1 Break*": "E0 A3",
+        "PS/2 Set 2 Make": "E0 33",
+        "PS/2 Set 2 Break": "E0 F0 33"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 25",
+        "PS/2 Set 1 Break*": "E0 A5",
+        "PS/2 Set 2 Make": "E0 42",
+        "PS/2 Set 2 Break": "E0 F0 42"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 26",
+        "PS/2 Set 1 Break*": "E0 A6",
+        "PS/2 Set 2 Make": "E0 4B",
+        "PS/2 Set 2 Break": "E0 F0 4B"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 27",
+        "PS/2 Set 1 Break*": "E0 A7",
+        "PS/2 Set 2 Make": "E0 4C",
+        "PS/2 Set 2 Break": "E0 F0 4C"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 28",
+        "PS/2 Set 1 Break*": "E0 A8",
+        "PS/2 Set 2 Make": "E0 52",
+        "PS/2 Set 2 Break": "E0 F0 52"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 29",
+        "PS/2 Set 1 Break*": "E0 A9",
+        "PS/2 Set 2 Make": "E0 0E",
+        "PS/2 Set 2 Break": "E0 F0 0E"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 2A",
+        "PS/2 Set 1 Break*": "E0 AA",
+        "PS/2 Set 2 Make": "E0 12",
+        "PS/2 Set 2 Break": "E0 F0 12"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 2B",
+        "PS/2 Set 1 Break*": "E0 AB",
+        "PS/2 Set 2 Make": "E0 5D",
+        "PS/2 Set 2 Break": "E0 F0 5D"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 2C",
+        "PS/2 Set 1 Break*": "E0 AC",
+        "PS/2 Set 2 Make": "E0 1A",
+        "PS/2 Set 2 Break": "E0 F0 1A"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 2D",
+        "PS/2 Set 1 Break*": "E0 AD",
+        "PS/2 Set 2 Make": "E0 22",
+        "PS/2 Set 2 Break": "E0 F0 22"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 2F",
+        "PS/2 Set 1 Break*": "E0 AF",
+        "PS/2 Set 2 Make": "E0 2A",
+        "PS/2 Set 2 Break": "E0 F0 2A"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 31",
+        "PS/2 Set 1 Break*": "E0 B1",
+        "PS/2 Set 2 Make": "E0 31",
+        "PS/2 Set 2 Break": "E0 F0 31"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 33",
+        "PS/2 Set 1 Break*": "E0 B3",
+        "PS/2 Set 2 Make": "E0 41",
+        "PS/2 Set 2 Break": "E0 F0 41"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 34",
+        "PS/2 Set 1 Break*": "E0 B4",
+        "PS/2 Set 2 Make": "E0 49",
+        "PS/2 Set 2 Break": "E0 F0 49"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 36",
+        "PS/2 Set 1 Break*": "E0 B6",
+        "PS/2 Set 2 Make": "E0 59",
+        "PS/2 Set 2 Break": "E0 F0 59"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 39",
+        "PS/2 Set 1 Break*": "E0 B9",
+        "PS/2 Set 2 Make": "E0 29",
+        "PS/2 Set 2 Break": "E0 F0 29"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 3A",
+        "PS/2 Set 1 Break*": "E0 BA",
+        "PS/2 Set 2 Make": "E0 58",
+        "PS/2 Set 2 Break": "E0 F0 58"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 3B",
+        "PS/2 Set 1 Break*": "E0 BB",
+        "PS/2 Set 2 Make": "E0 05",
+        "PS/2 Set 2 Break": "E0 F0 05"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 3C",
+        "PS/2 Set 1 Break*": "E0 BC",
+        "PS/2 Set 2 Make": "E0 06",
+        "PS/2 Set 2 Break": "E0 F0 06"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 3D",
+        "PS/2 Set 1 Break*": "E0 BD",
+        "PS/2 Set 2 Make": "E0 04",
+        "PS/2 Set 2 Break": "E0 F0 04"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 3E",
+        "PS/2 Set 1 Break*": "E0 BE",
+        "PS/2 Set 2 Make": "E0 0C",
+        "PS/2 Set 2 Break": "E0 F0 0C"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 3F",
+        "PS/2 Set 1 Break*": "E0 BF",
+        "PS/2 Set 2 Make": "E0 03",
+        "PS/2 Set 2 Break": "E0 F0 03"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 40",
+        "PS/2 Set 1 Break*": "E0 C0",
+        "PS/2 Set 2 Make": "E0 0B",
+        "PS/2 Set 2 Break": "E0 F0 0B"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 41",
+        "PS/2 Set 1 Break*": "E0 C1",
+        "PS/2 Set 2 Make": "E0 02",
+        "PS/2 Set 2 Break": "E0 F0 02"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 42",
+        "PS/2 Set 1 Break*": "E0 C2",
+        "PS/2 Set 2 Make": "E0 83",
+        "PS/2 Set 2 Break": "E0 F0 83"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 43",
+        "PS/2 Set 1 Break*": "E0 C3",
+        "PS/2 Set 2 Make": "E0 0A",
+        "PS/2 Set 2 Break": "E0 F0 0A"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 44",
+        "PS/2 Set 1 Break*": "E0 C4",
+        "PS/2 Set 2 Make": "E0 01",
+        "PS/2 Set 2 Break": "E0 F0 01"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 45",
+        "PS/2 Set 1 Break*": "E0 C5",
+        "PS/2 Set 2 Make": "E0 09",
+        "PS/2 Set 2 Break": "E0 F0 09"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 4A",
+        "PS/2 Set 1 Break*": "E0 CA",
+        "PS/2 Set 2 Make": "E0 7B",
+        "PS/2 Set 2 Break": "E0 F0 7B"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 4C",
+        "PS/2 Set 1 Break*": "E0 CC",
+        "PS/2 Set 2 Make": "E0 73",
+        "PS/2 Set 2 Break": "E0 F0 73"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 4E",
+        "PS/2 Set 1 Break*": "E0 CE",
+        "PS/2 Set 2 Make": "E0 79",
+        "PS/2 Set 2 Break": "E0 F0 79"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 54",
+        "PS/2 Set 1 Break*": "E0 D4",
+        "PS/2 Set 2 Make": "E0 7F",
+        "PS/2 Set 2 Break": "E0 F0 7F"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 54",
+        "PS/2 Set 1 Break*": "E0 D4",
+        "PS/2 Set 2 Make": "E0 84",
+        "PS/2 Set 2 Break": "E0 F0 84"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 55",
+        "PS/2 Set 1 Break*": "E0 D5",
+        "PS/2 Set 2 Make": "E0 60",
+        "PS/2 Set 2 Break": "E0 F0 60"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 56",
+        "PS/2 Set 1 Break*": "E0 D6",
+        "PS/2 Set 2 Make": "E0 61",
+        "PS/2 Set 2 Break": "E0 F0 61"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 57",
+        "PS/2 Set 1 Break*": "E0 D7",
+        "PS/2 Set 2 Make": "E0 78",
+        "PS/2 Set 2 Break": "E0 F0 78"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 58",
+        "PS/2 Set 1 Break*": "E0 D8",
+        "PS/2 Set 2 Make": "E0 07",
+        "PS/2 Set 2 Break": "E0 F0 07"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 59",
+        "PS/2 Set 1 Break*": "E0 D9",
+        "PS/2 Set 2 Make": "E0 0F",
+        "PS/2 Set 2 Break": "E0 F0 0F"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 5A",
+        "PS/2 Set 1 Break*": "E0 DA",
+        "PS/2 Set 2 Make": "E0 17",
+        "PS/2 Set 2 Break": "E0 F0 17"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 62",
+        "PS/2 Set 1 Break*": "E0 E2",
+        "PS/2 Set 2 Make": "E0 56",
+        "PS/2 Set 2 Break": "E0 F0 56"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 64",
+        "PS/2 Set 1 Break*": "E0 E4",
+        "PS/2 Set 2 Make": "E0 08",
+        "PS/2 Set 2 Break": "E0 F0 08"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 6E",
+        "PS/2 Set 1 Break*": "E0 EE",
+        "PS/2 Set 2 Make": "E0 57",
+        "PS/2 Set 2 Break": "E0 F0 57"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 6F",
+        "PS/2 Set 1 Break*": "E0 EF",
+        "PS/2 Set 2 Make": "E0 6F",
+        "PS/2 Set 2 Break": "E0 F0 6F"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 70",
+        "PS/2 Set 1 Break*": "E0 F0",
+        "PS/2 Set 2 Make": "E0 13",
+        "PS/2 Set 2 Break": "E0 F0 13"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 71",
+        "PS/2 Set 1 Break*": "E0 F1",
+        "PS/2 Set 2 Make": "E0 19",
+        "PS/2 Set 2 Break": "E0 F0 19"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 72",
+        "PS/2 Set 1 Break*": "E0 F2",
+        "PS/2 Set 2 Make": "E0 39",
+        "PS/2 Set 2 Break": "E0 F0 39"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 73",
+        "PS/2 Set 1 Break*": "E0 F3",
+        "PS/2 Set 2 Make": "E0 51",
+        "PS/2 Set 2 Break": "E0 F0 51"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 74",
+        "PS/2 Set 1 Break*": "E0 F4",
+        "PS/2 Set 2 Make": "E0 53",
+        "PS/2 Set 2 Break": "E0 F0 53"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 75",
+        "PS/2 Set 1 Break*": "E0 F5",
+        "PS/2 Set 2 Make": "E0 5C",
+        "PS/2 Set 2 Break": "E0 F0 5C"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 76",
+        "PS/2 Set 1 Break*": "E0 F6",
+        "PS/2 Set 2 Make": "E0 5F",
+        "PS/2 Set 2 Break": "E0 F0 5F"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 77",
+        "PS/2 Set 1 Break*": "E0 F7",
+        "PS/2 Set 2 Make": "E0 62",
+        "PS/2 Set 2 Break": "E0 F0 62"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 78",
+        "PS/2 Set 1 Break*": "E0 F8",
+        "PS/2 Set 2 Make": "E0 63",
+        "PS/2 Set 2 Break": "E0 F0 63"
+    },
+    {
+        "Key Name": "UNASSIGNED",
+        "HID Usage Page": "UNASSIGNED",
+        "HID Usage ID": "UNASSIGNED",
+        "PS/2 Set 1 Make*": "E0 79",
+        "PS/2 Set 1 Break*": "E0 F9",
+        "PS/2 Set 2 Make": "E0 64",
+        "PS/2 Set 2 Break": "E0 F0 64"
+    },
+    {
+        "Key Name": "Note 1",
+        "HID Usage Page": "In PS/2 mode, Scan Set 1, these keys have special codes prepended or appended depending upon the state of one or more\nmodifier keys.  These codes are documented in WHQLKEYS.DOC, available from Microsoft.",
+        "HID Usage ID": "",
+        "PS/2 Set 1 Make*": "",
+        "PS/2 Set 1 Break*": "",
+        "PS/2 Set 2 Make": "",
+        "PS/2 Set 2 Break": ""
+    },
+    {
+        "Key Name": "Note 2",
+        "HID Usage Page": "These keys have various legends depending upon the locale for which the keyboard is manufactured.  Europe 1 is typically in AT-\n101 Key Position 42 next to the Enter key.  Europe 2 is typically in AT-101 Key Position 45, between the Left Shift and Z keys.",
+        "HID Usage ID": "",
+        "PS/2 Set 1 Make*": "",
+        "PS/2 Set 1 Break*": "",
+        "PS/2 Set 2 Make": "",
+        "PS/2 Set 2 Break": ""
+    },
+    {
+        "Key Name": "*",
+        "HID Usage Page": "Under all Microsoft operating systems, all PS/2 keyboards actually transmit Scan Code Set 2 values down the wire from the\nkeyboard to the keyboard port. These values are translated to Scan Code Set 1 by the i8042 port chip. The rest of the operating\nsystem, and all applications that handle scan codes expect the values to be from Scan Code Set 1.",
+        "HID Usage ID": "",
+        "PS/2 Set 1 Make*": "",
+        "PS/2 Set 1 Break*": "",
+        "PS/2 Set 2 Make": "",
+        "PS/2 Set 2 Break": ""
+    }
+]
