@@ -53,7 +53,19 @@ python HID_to_Translation.py --hid "02001e0000000000"
 - 脚本假设HID数据格式正确，不进行错误格式的检查。
 
 
-## 
-
+## 目录树
+```js
+HID_to_Translation                
+├─ 202106241624549419156181.csv   # xlsx转CSV生成的文件
+├─ 202106241624549419156181.xlsx  # 键值与HID对应表
+├─ csv_to_json.py                 # csv转json脚本
+├─ hid1_11.pdf                    # HID 1.11 的设备类定义PDF文件
+├─ HID_to_Translation.py          # HID转键值脚本
+├─ hut1_5.pdf                     # HID使用表PDF
+├─ json_table.json                # CSV转JSON生成的文件
+├─ README.md                      
+├─ test.pcapng                    # HID数据抓包文件
+└─ usbdata.txt                    # 使用的HID数据
+```
 ---
 
