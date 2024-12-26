@@ -16,7 +16,7 @@ def find_keyname(usage_id, hid_table):
 
 # 解析命令行参数
 parser = argparse.ArgumentParser(description='HID Data to Key Name Converter')
-parser.add_argument('-hf', '--hid_file', type=str, help='File containing HID data', required=False, default='usbdata.txt')
+parser.add_argument('-hf', '--hid_file', type=str, help='File containing HID data', required=False, default='USB_HID_DATA.txt')
 parser.add_argument('-hid', '--hid', type=str, help='Single HID data', required=False)
 parser.add_argument('-jf', '--json_file', type=str, help='loading Json File', required=False,default='json_table.json')
 args = parser.parse_args()

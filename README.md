@@ -48,10 +48,22 @@ python HID_to_Translation.py --hid "02001e0000000000"
 
 ## 注意事项
 
-- 确保HID表JSON文件`hid_table.json`位于脚本同一目录下，或者通过`-jf`参数指定其路径。
+- 确保HID表JSON文件`json_table.json`位于脚本同一目录下，或者通过`-jf`参数指定其路径。
 - HID数据文件应该是纯文本文件，每行一个HID数据。
 - 脚本假设HID数据格式正确，不进行错误格式的检查。
 
+## usbdata数据获取
+wireshark在安装时会自带一些工具，tshark便是其中之一，它可以在wireshark的安装路径中找到。使用cmd或powershell进入安装路径后，执行以下命令
+- `-r` D:\Downloads\usb.pcap：告诉tshark读取位于D:\Downloads\目录下的usb.pcap文件，这是一个网络数据包的捕获文件。
+- `-T` fields：指定输出格式为字段，这意味着tshark将只输出选定的字段。
+- `-e` usb.capdata：指定要输出的字段名称为usb.capdata，这通常是USB数据包中的数据字段。
+- `>` D:\Downloads\usbdata.txt：将tshark的输出重定向到D:\Downloads\目录下的usbdata.txt文件中。
+
+```cmd
+
+.\tshark.exe -r D:\Downloads\usb.pcap -T fields -e usb.capdata >D:\Downloads\usbdata.txt
+
+```
 
 ## 目录树
 ```js
